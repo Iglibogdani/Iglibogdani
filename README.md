@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iglibogdani
+- 👋 Hi, I’m Igli Bogdani
 - 👀 I’m interested in everything that includes programming
 - 📫 How to reach me: iglibo18@gmail.com
 
